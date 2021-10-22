@@ -92,13 +92,13 @@ img.profilePic {
 
 button{
   float: center;
-  font-size: 20px;
+  font-size: 15px;
   letter-spacing: 2px;
-  color: rgb(186, 107, 23);
+  color: rgb(231, 177, 120);
   background-color: rgb(240, 235, 232);
   border: none;
   border-radius: 5%;
-  padding: 15px 32px;   
+  padding: 10px 15px;   
 }
 
 .title-projects{
@@ -195,3 +195,4 @@ div.container {
   overflow: scroll;
   overflow-x: hidden; /* Hide horizontal scrollbar */
 }
+
